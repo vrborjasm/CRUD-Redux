@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jugo",
+      "price": "800"
+    },
+    {
+      "id": 2,
+      "name": "Jugo de Naranja",
+      "price": "1"
+    },
+    {
+      "name": "Jugo de Naranja",
+      "price": "300",
+      "id": 3
+    },
+    {
+      "name": "Agua",
+      "price": 200,
+      "id": 4
+    }
+  ]
+}
